@@ -9,7 +9,7 @@ public class main {
 >>>>>>> conflict-b
         System.out.println("your second name is Datunashvili");
 
-
+        System.out.println("changing main for rebase");
     }
 
 
