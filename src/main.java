@@ -1,7 +1,10 @@
 public class main {
 
 
-    //testing git
+    public static void main(String[] args) {
+        System.out.println("My name is: Lia");
+
+    }
 
 
 
